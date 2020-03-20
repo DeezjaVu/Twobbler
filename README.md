@@ -6,7 +6,7 @@ Twobbler retrieves latest tracks from a [Last.fm](https://last.fm) user and writ
 
 ### v2.0.0
 
-* Initial release of the 2.0 version.
+* Fixed broken things (no I didn't).
 
 ## Help / Feedback
 
